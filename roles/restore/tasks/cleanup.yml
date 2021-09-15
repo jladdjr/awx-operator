@@ -22,7 +22,6 @@
     - '{{ admin_password_secret }}'
     - '{{ broadcast_websocket_secret }}'
     - '{{ postgres_configuration_secret }}'
-  no_log: true
 
 - name: Cleanup temp spec file
   file:
