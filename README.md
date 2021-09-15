@@ -170,8 +170,6 @@ You just completed the most basic install of an AWX instance via this operator. 
 
 For an example using the Nginx Controller in Minukube, don't miss our [demo video](https://asciinema.org/a/416946).
 
-[![asciicast](https://raw.githubusercontent.com/ansible/awx-operator/devel/docs/awx-demo.svg)](https://asciinema.org/a/416946)
-
 ### Admin user account configuration
 
 There are three variables that are customizable for the admin user account creation.
